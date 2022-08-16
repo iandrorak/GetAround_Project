@@ -1,0 +1,6 @@
+export AWS_ACCESS_KEY_ID="AKIAUN2H523CTL74ZYX7"
+export AWS_SECRET_ACCESS_KEY="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"
+export BACKEND_STORE_URI="postgresql://gtpcjnprifetlv:d1cc5e9da8771172da35e21b1f89e498adbc4e2f2a470547c0b2cb6337dc441e@ec2-54-161-255-125.compute-1.amazonaws.com:5432/dcku3p6lklmo3o"
+export ARTIFACT_ROOT="s3://iandro-bucket-for-getaround-mlflow/ga-mlflow-artifact-store/"
+export APP_URI="https://getaroundmlfowserver.herokuapp.com/"
+export MLFLOW_TRACKING_URI="https://getaroundmlfowserver.herokuapp.com/"
